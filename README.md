@@ -6,7 +6,7 @@ A collection of interactive Power BI dashboards built to analyse real-world data
 
 ## Project 1: Instagram Analytics Dashboard
 
-![Dashboard][01_Instagram-Analytics/01_dashboard_PBI.png]
+![Dashboard] 01_Instagram-Analytics/01_dashboard_PBI.png
 
 ### Overview
 Analysed 29,999 Instagram posts to answer 5 key social media strategy questions using Power BI.
