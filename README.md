@@ -6,7 +6,7 @@ A collection of interactive Power BI dashboards built to analyse real-world data
 
 ## Project 1: Instagram Analytics Dashboard
 
-![Dashboard] 01_Instagram-Analytics/01_dashboard_PBI.png
+![Dashboard](https://github.com/Vera-Atiogbe/Power-BI-Projects/blob/main/01_Instagram-Analytics/01_dashboard_PBI.png)
 
 ### Overview
 Analysed 29,999 Instagram posts to answer 5 key social media strategy questions using Power BI.
@@ -34,7 +34,7 @@ Analysed 29,999 Instagram posts to answer 5 key social media strategy questions 
 
 ## Project 2: Data Professional Survey Breakdown
 
-![Dashboard][02_Survey-Breakdown/survey_dashboard.png](https://github.com/Vera-Atiogbe/Power-BI-Projects/blob/main/Data%20Professioanl%20Survey%20Dashboard.png)
+![Dashboard](https://github.com/Vera-Atiogbe/Power-BI-Projects/blob/main/Data%20Professioanl%20Survey%20Dashboard.png)
 
 ### Overview
 Analysed survey responses from 630 data professionals globally to uncover salary trends, job satisfaction, and career entry difficulty.
